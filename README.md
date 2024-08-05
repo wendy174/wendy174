@@ -1,5 +1,11 @@
-# 👩🏻‍💻 About Me:
- 👨‍🍳 I’m currently working on building a website for my parents' restaurant! <br><br>🐳 I just learned Docker to streamline the development and deployment of applications. <br><br>👥 I’m looking to collaborate on open-source projects that focus on web development and cloud solutions. <br><br>🌱 I’m currently learning AWS to enhance my skills in cloud computing and improve deployment strategies. <br><br>💬 Ask me about my journey in tech.<br><br>⚡ Fun fact: I used to work as a healthcare professional. 
+# 👩🏻‍💻🐱 About Me:
+ 👨‍🍳 I’m currently working on building a website for my parents' restaurant! <br><br> 
+ 🛠️ I’m passionate about using tools and technologies that streamline the development process and make a developer's life easier. <br><br> 
+ 🐳 I just learned Docker to streamline the development and deployment of applications. <br><br>
+ 👥 I’m looking to collaborate on open-source projects that focus on web development and cloud solutions. <br><br>
+ 🌱 I’m currently learning AWS to enhance my skills in cloud computing and improve deployment strategies. <br><br>
+ 💬 Ask me about my journey in tech.<br><br>
+ ⚡ Fun fact: I used to work as a healthcare professional. 
 
 
 ## 🌐 Socials:
